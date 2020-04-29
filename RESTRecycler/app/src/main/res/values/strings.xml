@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RESTRecycler</string>
+    <string name="title_00">Recycler View of Sci Fi Novels Using REST API</string>
+</resources>
